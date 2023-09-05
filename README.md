@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Ferramentas e Tecnologias
+<i class="devicon-cplusplus-line"></i>
+<i class="devicon-python-plain"></i>
+<i class="devicon-dart-plain"></i>
+<i class="devicon-react-original"></i>
+          
+          
